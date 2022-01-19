@@ -27,6 +27,10 @@ namespace lab4._1
                     devide(A, B);
                     break;
             }
+            void plus(int a, int b)
+            {
+                Console.WriteLine(a + b);
+            }
         }
     }
 }
